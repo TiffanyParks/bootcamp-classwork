@@ -1,0 +1,17 @@
+<form action="" method="get" class="form-example">
+  <div class="form-example">
+  <header> 
+  <h1> Student Profile</h>
+    <label for="name">Enter your first name: </label>
+    <input type="text" name="name" id="name" required>
+  </div>
+  <div class="form-example">
+    <label for="name">Enter your last name: </label>
+    <input type="text" name="name" id="name" required>
+  </div>
+  <div class="form-example">
+    <label for="password">Enter your email: </label>
+    <input type="text" password="password" id="password" required>
+  </div>
+  
+</form>
